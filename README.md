@@ -1,7 +1,7 @@
 # Praveen Pandi's Portfolio
 
 ## About Me
-I'm Praveen Pandi, a seasoned software engineer with a passion for crafting innovative solutions. With over 3 years of experience in Full-Stack development, I thrive on challenges and enjoy collaborating with cross-functional teams to deliver impactful projects. My expertise lies in Java, Python, Spring Boot, React.js, and AWS, and I have a proven track record of designing and implementing complex solutions adhering to Agile methodologies.
+I'm Praveen Pandi, a seasoned software engineer with a passion for crafting innovative solutions. With 3.5 years of experience in Full-Stack development, I thrive on challenges and enjoy collaborating with cross-functional teams to deliver impactful projects. My expertise lies in Java, Python, Spring Boot, React.js, and AWS, and I have a proven track record of designing and implementing complex solutions adhering to Agile methodologies.
 ## Skills
 - **Programming Languages**: 
   - ![Java](https://img.shields.io/badge/Java-★★★★★-orange)
