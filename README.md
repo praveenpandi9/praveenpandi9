@@ -1,6 +1,5 @@
-# Praveen Pandi's Portfolio
+# Praveen Pandi
 
-## About Me
 I'm Praveen Pandi, a seasoned software engineer with a passion for crafting innovative solutions. With 3.5 years of experience in Full-Stack development, I thrive on challenges and enjoy collaborating with cross-functional teams to deliver impactful projects. My expertise lies in Java, Python, Spring Boot, React.js, and AWS, and I have a proven track record of designing and implementing complex solutions adhering to Agile methodologies.
 ## Skills
 - **Programming Languages**: 
